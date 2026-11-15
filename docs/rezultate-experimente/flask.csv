@@ -1,0 +1,4 @@
+﻿Cfg.,Moment,Syft,Componente PyPI,Sursă,Versiuni corecte,Cu PURL,Cu hash,Cu licență
+G,Sursă repository,1.18.1,21,21 din examples/celery/requirements.txt,0 din 7,100.0%,0.0%,0.0%
+H,Sursă repository,1.56.0,104,83 din uv.lock; 21 din examples/celery/requirements.txt,6 din 7,100.0%,0.0%,0.0%
+I,Mediu virtual instalat,1.18.1,8,8 din mediu instalat,7 din 7,100.0%,0.0%,50.0%

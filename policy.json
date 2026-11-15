@@ -1,0 +1,8 @@
+{
+  "require_purl": true,
+  "deny": [
+    {"name": "xz", "versions": ["5.6.0", "5.6.1"], "reason": "CVE-2024-3094 upstream release compromise"},
+    {"name": "xz-utils", "versions": ["5.6.0", "5.6.1"], "reason": "CVE-2024-3094 upstream release compromise"},
+    {"name": "liblzma", "versions": ["5.6.0", "5.6.1"], "reason": "CVE-2024-3094 upstream release compromise"}
+  ]
+}

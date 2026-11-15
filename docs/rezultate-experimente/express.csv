@@ -1,0 +1,7 @@
+﻿Cfg.,Moment,Syft,Componente npm,Acoperire producție,Acoperire totală,Componente străine,Cu PURL,Cu hash,Cu licență
+A,"Sursă, fără lockfile",1.18.1,0,0.0%,0.0%,17 acțiuni GitHub (9 unice),–,–,–
+B,"Sursă, cu lockfile",1.18.1,65 + rădăcina,100.0%,17.7%,17 acțiuni GitHub (9 unice),100.0%,0.0%,100.0%
+C,După npm ci --omit=dev,1.18.1,65 + rădăcina,100.0%,17.7%,17 acțiuni GitHub (9 unice),100.0%,0.0%,100.0%
+D,După npm ci complet,1.18.1,65 + rădăcina,100.0%,17.7%,23 acțiuni GitHub (15 unice),100.0%,0.0%,100.0%
+E,"Ca D, inclusiv dezvoltare",1.18.1,368 + rădăcina,100.0%,100.0%,23 acțiuni GitHub (15 unice),100.0%,0.0%,100.0%
+F,Ca D,1.56.0,65 + rădăcina,100.0%,17.7%,23 acțiuni GitHub (15 unice); 9 intrări de tip fișier separat,100.0%,0.0%,100.0%

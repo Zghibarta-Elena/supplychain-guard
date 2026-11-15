@@ -1,0 +1,27 @@
+﻿Exemplu,Indicator,Rezultat
+SBOM acceptat,Rezultat,Finalizat
+SBOM acceptat,Cod ieșire,0
+SBOM acceptat,passed,Da
+SBOM acceptat,findings,—
+SBOM blocat,Rezultat,Constatări
+SBOM blocat,Cod ieșire,1
+SBOM blocat,passed,Nu
+SBOM blocat,findings[1],Denied component: xz@5.6.1: CVE-2024-3094 upstream release compromise
+SolarWinds,Rezultat,Finalizat
+SolarWinds,Cod ieșire,0
+SolarWinds,scenario,solarwinds
+SolarWinds,simulation,Da
+SolarWinds,detected,Da
+SolarWinds,differences.added,—
+SolarWinds,differences.removed,—
+SolarWinds,differences.changed[1],application.txt
+SolarWinds,limitation,"A trusted baseline is required; this is a harmless illustration, not an exploit or historical reproduction."
+XZ,Rezultat,Finalizat
+XZ,Cod ieșire,0
+XZ,scenario,xz
+XZ,simulation,Da
+XZ,detected,Da
+XZ,differences.added[1],release-only.m4
+XZ,differences.removed,—
+XZ,differences.changed,—
+XZ,limitation,"A trusted baseline is required; this is a harmless illustration, not an exploit or historical reproduction."

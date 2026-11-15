@@ -1,0 +1,8 @@
+﻿Scenariu,Modificare,Cheie,Rezultat,Cod,Conform așteptării
+T0,Nimic (control),Legitimă,Acceptat,0,Da
+T1,Un octet modificat în arhivă,Legitimă,Respins,1,Da
+T2,Arhivă reconstruită cu marker; semnătură veche,Legitimă,Respins,1,Da
+T3,"Arhivă modificată, semnată de atacator",Legitimă,Respins,1,Da
+T4,"Ca T3, verificare cu cheia atacatorului",Atacator,Acceptat,0,Da
+T5,Bundle-ul SBOM-ului atașat arhivei,Legitimă,Respins,1,Da
+T6,Marker introdus înaintea semnării legitime,Legitimă,Acceptat,0,Da
